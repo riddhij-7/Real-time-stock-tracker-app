@@ -39,3 +39,7 @@ Thanks to the Citi team!
 📫 Contact
 Feel free to reach out on linkedin.com/in/riddhi-jathar-b2434a288 or check out more of my projects here on GitHub!
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+
